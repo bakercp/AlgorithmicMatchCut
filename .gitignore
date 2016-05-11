@@ -2,3 +2,4 @@ tSNEImageCoordinates/bin/data/imageSequences
 flow-imageSequence/bin/data/scaledMp4s
 *.app
 *.sqlite3
+*.DS_Store

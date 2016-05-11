@@ -35,6 +35,7 @@ class ofApp : public ofBaseApp{
     vector<std::string> filenames;
     vector<vector<double> > imagePoints;
     vector<vector<float> > encodings;
+    vector<vector<double> > timeStamps;
     
     ofxPanel gui;
     ofParameter<float> scale;
